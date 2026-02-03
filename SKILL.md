@@ -1,13 +1,13 @@
 ---
 name: mixpost
-description: Mixpost is a self-hosted social media management software that helps you schedule and manage your social media content across multiple platforms including Facebook, Twitter/X, Instagram, LinkedIn, Pinterest, TikTok, YouTube, and more.
+description: Mixpost is a self-hosted social media management software that helps you schedule and manage your social media content across multiple platforms including Facebook, Twitter/X, Instagram, LinkedIn, Pinterest, TikTok, YouTube, Mastodon, Google Business Profile, Threads, Bluesky, and more.
 homepage: https://mixpost.app
 metadata: {"openclaw":{"emoji":"🗓️","primaryEnv":"MIXPOST_ACCESS_TOKEN","requires":{"env":["MIXPOST_URL","MIXPOST_ACCESS_TOKEN","MIXPOST_WORKSPACE_UUID"]}}}
 ---
-us
+
 # Mixpost Skill
 
-Mixpost is a self-hosted social media management software that helps you schedule and manage your social media content across multiple platforms including Facebook, Twitter/X, Instagram, LinkedIn, Pinterest, TikTok, YouTube, and more.
+Mixpost is a self-hosted social media management software that helps you schedule and manage your social media content across multiple platforms including Facebook, Twitter/X, Instagram, LinkedIn, Pinterest, TikTok, YouTube, Mastodon, Google Business Profile, Threads, Bluesky, and more.
 
 ## Setup
 
