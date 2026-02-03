@@ -1,6 +1,12 @@
 # Mixpost Skill for OpenClaw
 
-A skill for managing social media content through [Mixpost](https://mixpost.app) - a self-hosted social media management software.
+[<img src="./art/cover.png" alt="Cover Mixpost + OpenClaw" />](https://mixpost.app)
+
+* * *
+
+An [OpenClaw](https://openclaw.ai) skill for managing social media content through [Mixpost](https://mixpost.app) - a self-hosted social media management software.
+
+Automate your social media workflow with AI. Create, schedule, and publish posts across multiple platforms using natural language commands. Let your AI assistant handle the heavy lifting while you focus on growing your business.
 
 ## Supported Platforms
 
